@@ -1,0 +1,24 @@
+//* Sass Partials
+@import "normalize";
+@import "skeleton";
+
+//* Settings
+$gold: #D5AF66;
+$off-white: #F6F3EE;
+
+.form-column {
+  background-color: $gold;
+  color: $off-white;
+  height:100%;
+}
+
+.main-site, body, html {
+  height: 100%;
+}
+
+//* Form Styles
+
+.main-form {
+  margin-top: 3rem;
+  padding: 1.5rem;
+}

@@ -1,0 +1,34 @@
+{
+  "name": "card",
+  "version": "0.0.1",
+  "description": "A simple Web app that allows users to fill out a form and get a live preview of the card that will output.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ivanvillacreative/card-preview.git"
+  },
+  "keywords": [
+    "vuejs",
+    "print",
+    "card",
+    "preview",
+    "mockup"
+  ],
+  "author": "Ivan Villa",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ivanvillacreative/card-preview/issues"
+  },
+  "homepage": "https://github.com/ivanvillacreative/card-preview#readme",
+  "devDependencies": {
+    "browser-sync": "^2.12.8",
+    "gulp": "^3.9.1",
+    "gulp-sass": "^2.3.1"
+  },
+  "dependencies": {
+    "normalize.css": "^4.1.1"
+  }
+}
